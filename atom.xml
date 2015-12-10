@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[王吉军的技术博客]]></title>
+  <link href="https://wangjijun.github.com/atom.xml" rel="self"/>
+  <link href="https://wangjijun.github.com/"/>
+  <updated>2015-12-10T14:09:07+08:00</updated>
+  <id>https://wangjijun.github.com/</id>
+  <author>
+    <name><![CDATA[王吉军]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="https://wangjijun.github.com/blog/2015/12/10/welcome/"/>
+    <updated>2015-12-10T13:35:25+08:00</updated>
+    <id>https://wangjijun.github.com/blog/2015/12/10/welcome</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
