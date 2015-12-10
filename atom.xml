@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[王吉军的技术博客]]></title>
-  <link href="http://wangjijun.github.io/atom.xml" rel="self"/>
-  <link href="http://wangjijun.github.io/"/>
-  <updated>2015-12-10T18:46:06+08:00</updated>
-  <id>http://wangjijun.github.io/</id>
+  <link href="http://wangjijun.com/atom.xml" rel="self"/>
+  <link href="http://wangjijun.com/"/>
+  <updated>2015-12-10T18:55:24+08:00</updated>
+  <id>http://wangjijun.com/</id>
   <author>
     <name><![CDATA[王吉军]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome WangJiJun's Blog]]></title>
-    <link href="http://wangjijun.github.io/blog/2015/12/10/welcome/"/>
+    <link href="http://wangjijun.com/blog/2015/12/10/welcome/"/>
     <updated>2015-12-10T13:35:25+08:00</updated>
-    <id>http://wangjijun.github.io/blog/2015/12/10/welcome</id>
+    <id>http://wangjijun.com/blog/2015/12/10/welcome</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
