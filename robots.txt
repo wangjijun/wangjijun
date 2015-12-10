@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://wangjijun.github.com/sitemap.xml 
+Sitemap: http://wangjijun.github.io/sitemap.xml 
