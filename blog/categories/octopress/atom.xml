@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | 王吉军的技术博客]]></title>
   <link href="http://blog.wangjijun.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://blog.wangjijun.com/"/>
-  <updated>2015-12-11T15:49:17+08:00</updated>
+  <updated>2015-12-11T16:45:52+08:00</updated>
   <id>http://blog.wangjijun.com/</id>
   <author>
     <name><![CDATA[王吉军]]></name>
@@ -18,7 +18,11 @@
     <link href="http://blog.wangjijun.com/blog/2015/12/01/welcome/"/>
     <updated>2015-12-01T13:35:25+08:00</updated>
     <id>http://blog.wangjijun.com/blog/2015/12/01/welcome</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>个人域名绑定</h1>
+
+<h1>社会化评论系统</h1>
+
+<p>这块功能大多数文章推荐 Disqus，不过国内访问速度有点慢，也不符合小伙伴的使用情况，参观了唐巧和南峰子的装修风格后决定使用友言。</p>
 ]]></content>
   </entry>
   
