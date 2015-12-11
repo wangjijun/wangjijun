@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[王吉军的技术博客]]></title>
-  <link href="http://blog.wangjijun.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Octopress | 王吉军的技术博客]]></title>
+  <link href="http://blog.wangjijun.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://blog.wangjijun.com/"/>
   <updated>2015-12-11T14:23:48+08:00</updated>
   <id>http://blog.wangjijun.com/</id>
